@@ -1,0 +1,28 @@
+.col-md-4{
+  border: solid 2px orange;
+  /*display: inline-block;*/
+}
+body {
+  background-color: red;
+}
+main {
+  height: 50vh;
+}
+.beezneez {
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+.menusection  {
+  height: 50vh;
+      width: 100%;
+}
+.form-group {
+  height: 250px;
+      width: 250px;
+      float: left;
+}
+.menusection button {
+  margin: 10px auto;
+  clear: both;
+}
